@@ -1,0 +1,12 @@
+{
+        "Age" :3.0,
+        "BMI" :25.0,
+        "DiffWalk": 1.0,
+        "Education": 4.0,
+        "GenHlth":5.0,
+        "HeartDiseaseorAttack":0.0,
+        "HighBP":1.0,
+        "HighChol": 1.0,
+        "Income":5,
+        "PhysHlth":10
+}
